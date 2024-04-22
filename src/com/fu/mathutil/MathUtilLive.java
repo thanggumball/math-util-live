@@ -20,6 +20,11 @@ public class MathUtilLive {
         System.out.println("5! - 120; actual is " + result);
         System.out.println("6! - 720; actual is " + MathUtil.getFactorial(6));
         System.out.println("0! - 1; actual is " + MathUtil.getFactorial(0));
+        
+        //them code sau lan sua code 22/4
+        System.out.println("1! - 1; actual is " + MathUtil.getFactorial(1));
+        System.out.println("3! - 6; actual is " + MathUtil.getFactorial(3));
+        
     }
     
 }
